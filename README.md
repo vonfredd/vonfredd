@@ -1,6 +1,5 @@
-- 👋 Hello, I'm Fredrik.
-- 📚 I'm currently studying Java programming.
-- 🔨 I'm working on small projects to gain more experience and apply what I've learned so far.
+# 👋 Hello, I'm Fredrik.
+Currently studying Java development, I really enjoy creating simple projects to build the things I want.
 
 <!---
 vonfredd/vonfredd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
